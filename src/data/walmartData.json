@@ -1,0 +1,172 @@
+{
+  "backToSchoolContent":[
+    {
+      "title": "Supplies Stock-up",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-caef/k2-_193c4067-5f84-4d59-8542-1909e4b01171.v1.jpg"
+    },
+    {
+      "title": "Backpacks & Accessories",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-7fd5/k2-_da13124e-f3dd-4448-a409-e315d8a211e9.v1.jpg"
+    },
+    {
+      "title": "Kids mix & match clothing",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-2a26/k2-_fbdc469f-e851-4233-9893-1f40950fb2af.v1.jpg"
+    },
+    {
+      "title": "Tech",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-ac2d/k2-_b5a6ec88-7855-4eef-89dc-97568eefd4fa.v1.jpg"
+    },
+    {
+      "title": "Educator essentials",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-697f/k2-_4c490e59-9d3a-4797-a71f-c228049d7787.v1.jpg"
+    },
+    {
+      "title": "Food Storage containers",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-b8fa/k2-_122ffa1c-6843-4fff-b010-1d75eb1e3c53.v1.jpg"
+    },
+    {
+      "title": "Shop All",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-ece8/k2-_9dd53336-b99b-4b37-8fb5-3303bf658231.v1.jpg"
+    },
+    {
+      "title": "Shop campus essentials",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-28ed/k2-_6984aefe-a709-422c-b740-509687a17178.v1.jpg"
+    }
+  ],
+  "carouselImages":[
+    { "url": "https://i5.walmartimages.com/dfw/8822aef6-43d8/k2-_2779bdf7-a25c-425f-9413-5a5664b58f29.v1.jpg" },
+    { "url": "https://i5.walmartimages.com/dfw/8822aef6-6469/k2-_2f65d1d7-4a43-449f-97c9-2065df55ceb7.v1.jpg" },
+    { "url": "https://i5.walmartimages.com/dfw/8822aef6-43d8/k2-_2779bdf7-a25c-425f-9413-5a5664b58f29.v1.jpg" },
+    { "url": "https://i5.walmartimages.com/dfw/8822aef6-956d/k2-_c460e6c7-9e7f-4070-b449-78d8bedc3637.v1.jpg" }
+  ],
+  "moreWaysContent":[
+    {
+      "title":"Rollback",
+      "subTitle": "Enjoy savings on 1000s of items",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-e17e/k2-_2d37801c-315b-40f1-9fdb-1221a12b917d.v1.jpg"
+    },
+    {
+      "title":"Clearance",
+      "subTitle": "We clear out. You save big",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-d876/k2-_552222c3-17d7-49f1-9ee6-0a10cf7e5564.v1.jpg"
+    },
+    {
+      "title":"Deals Center",
+      "subTitle": "The best deals from our selling partners",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-ee2b/k2-_47fdd87b-aa85-4c5d-9db4-e41b09f07e30.v1.jpg"
+    },
+    {
+      "title":"Weekly Flyer Features",
+      "subTitle": "Low prices on everyday essentials",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-fc72/k2-_948d922f-bc9c-43c1-88e1-7b4d5088abff.v1.jpg"      
+    },
+    {
+      "title":"Shop today, take time to pay",
+      "subTitle": "Split your purchase into 6 easy installments.* *Terms & conditions apply.",
+      "image": "https://i5.walmartimages.com/dfw/8822aef6-7b86/k2-_29d8df98-42bd-41f1-be6b-0d7da33b30d1.v1.jpg"      
+    }
+  
+  ],
+  "departments":[
+    {
+      "title": "Grocery",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-c8f2/k2-_685cfefe-7346-4027-9199-91d3532e2d24.v1.jpg"
+    },
+    {
+      "title": "Outdoor Living",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-e94b/k2-_430734a6-58a9-41ad-9377-600c76fb499c.v1.jpg"
+    },
+    {
+      "title": "Electronics",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-23c5/k2-_26e98a8e-a9e6-4917-8c79-512b6993adb8.v1.jpg"
+    },
+    {
+      "title": "Home",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-75a7/k2-_801a976b-2290-44b7-a6a8-af6bf2159422.v1.jpg"
+    },
+    {
+      "title": "Furniture",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-208c/k2-_96a63076-3802-4196-a66e-29fe40c8d3c0.v1.jpg"
+    },
+    {
+      "title": "Toys",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-fa51/k2-_c425d22d-5b8d-44f0-a325-935de880dd87.v1.jpg"
+    },
+    {
+      "title": "Appliances",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-631c/k2-_48ccca9e-79ae-4045-b4ba-e31b0d4a163f.v1.jpg"
+    },
+    {
+      "title": "Sports & Rec",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-cbcb/k2-_56e3301e-fadf-42bf-8b55-055c78ac59a6.v1.jpg"
+    },
+    {
+      "title": "Baby",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-3122/k2-_69639ed2-3002-4ec0-a870-0ad2addb724b.v1.jpg"
+    },
+    {
+      "title": "All clothing, shoes & accessories",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-4ab3/k2-_415e217d-a2f1-4788-81f1-9a86b305b9be.v1.jpg"
+    },
+    {
+      "title": "Women's Clothing",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-16c5/k2-_09cd65be-5ecf-4db8-9c6a-11ef6a9c3105.v1.jpg"
+    },
+    {
+      "title": "Kids' and baby clothing",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-efe3/k2-_d6ea139f-2b53-43e9-8361-86f5694a1967.v1.jpg"
+    },
+    {
+      "title": "Mens' clothing",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-6f9f/k2-_bb1ff9d6-7407-4b06-8ae0-d7497d9ce441.v1.jpg"
+    },
+    {
+      "title": "Video games",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-6600/k2-_aa69a40d-1597-4184-8ee1-7eefca1bd770.v1.jpg"
+    },
+    {
+      "title": "Pets",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-a947/k2-_93dd8ae0-0b6c-45a8-9026-53e2a880a872.v1.jpg"
+    },
+    {
+      "title": "Health",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-936b/k2-_802e3f73-10c4-493e-baa6-6994a1dc7563.v1.jpg"
+    },
+    {
+      "title": "Personal Care",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-32ab/k2-_93236fb8-17f6-4297-8bbb-a5a46f3420c9.v1.jpg"
+    },
+    {
+      "title": "Beauty",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-9c92/k2-_b16cbfa4-6def-437f-82d6-f8dba89f778d.v1.jpg"
+    },
+    {
+      "title": "Pantry & Household",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-440f/k2-_988b64ac-7739-408f-8028-fbf227341ed5.v1.jpg"
+    },
+    {
+      "title": "Jewellery & watches",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-e8f2/k2-_f65efc04-a0e2-4e18-9dd0-a91715849285.v1.jpg"
+    },
+    {
+      "title": "Automotive",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-57e6/k2-_bbf39b53-8f09-4d21-9794-69df37dab4e1.v1.jpg"
+    },
+    {
+      "title": "Gifts & holidays",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-dabb/k2-_81463a70-533b-4851-9a47-6b464959e7b5.v1.jpg"
+    },
+    {
+      "title": "Office, crafts & party supplies",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-19fa/k2-_622aca71-7c38-43db-ba54-3c59b1ae140d.v1.jpg"
+    },
+    {
+      "title": "Gift cards",
+      "image" : "https://i5.walmartimages.com/dfw/8822aef6-d12a/k2-_ae709cb1-1ffd-47c3-a24d-9f1022a5badc.v1.jpg"
+    }
+
+  ]
+
+}
+  
+

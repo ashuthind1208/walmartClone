@@ -1,0 +1,49 @@
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1400px;
+  margin: 7px auto;
+  padding: 0 0px;
+  justify-content: space-between;
+}
+
+.newToWalmart img {
+  max-width: 100%;
+}
+.rollBackItems img {
+  max-width: 100%;
+}
+
+.carousel {
+  margin-top: 25px;
+  max-width: 100%;
+}
+
+.carouselImage img {
+  max-width: 100%;
+}
+
+.backToSchoolContainer {
+  display: flex;  
+  width: 100%;
+  flex-direction: column;
+  margin: 7px auto;
+  padding: 0 0px;
+  justify-content: space-between;
+}
+
+.backToSchoolHeading {
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: 1 1 1;
+  margin-top: 50px;
+  text-align: center;
+  align-items: center;
+}
+
+
+/* .backToSchoolContent {
+  display: flex;
+  justify-content: space-evenly;
+} */

@@ -1,0 +1,29 @@
+.backToSchoolContentContainer {
+  display: flex;  
+  margin-top: 20px;
+}
+
+.backToSchoolContentItems {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+  margin: 0 20px;
+  width: 140px;
+  text-align: center;
+  height: 100%;
+}
+
+.backToSchoolContentItems h6{
+  font-size: 11px;
+  font-weight: normal;
+  color: #0072ce;
+}
+
+.backToSchoolContentItems img {
+  border-radius: 50%;
+  padding: 10px;
+  height: 130px;
+  width: 130px;
+}

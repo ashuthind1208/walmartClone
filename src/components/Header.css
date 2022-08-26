@@ -1,0 +1,58 @@
+.headerContainer {
+    display: flex;
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 0px;
+  }
+  
+  .logo img {
+    padding: 20px 10px 10px 00px;
+    width: 180px;
+  }
+
+  .navBar {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navBar .search {
+    border: solid 0.5px #0072ce;
+    margin-left: 10px;
+    display: flex;
+    width: 70%;
+    align-content: center;
+  }
+  
+  .searchIconBG {
+    background-color: #0072ce;
+    color: #fff;
+    padding: 8px 10px;
+    border: solid 1px #0072ce;
+  }
+  
+  .searchIcon {
+    font-size: 18px;
+  }
+  
+  input {
+    border: 0px;
+    outline: none;
+    padding: 2px;
+    width: 100%;
+    padding-left: 10px;
+    background-color: transparent;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .navBar ul {
+    display: flex;
+  }
+  
+  .navBar ul li {
+    padding-right: 15px;
+    list-style: none;
+  }
+ 

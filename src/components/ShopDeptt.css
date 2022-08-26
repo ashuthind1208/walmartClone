@@ -1,0 +1,29 @@
+.shopDepttContent{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.shopDepttContentContainer{
+    display: grid;
+    width: 100%;    
+    grid-template-columns: repeat(8, 1fr) ;
+}
+
+.shopDepttContentItems{
+    max-width: 130px;
+    text-align: center;
+    height: 100%;
+    margin: 20px 25px;
+}
+
+.shopDepttContentItems h6{
+    color: #0072ce;
+}
+.shopDepttContentItems img {
+    border-radius: 50%;
+    padding: 5px;
+    height: 130px;
+    width: 130px;
+  }
