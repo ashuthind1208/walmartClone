@@ -43,7 +43,43 @@
 }
 
 
-/* .backToSchoolContent {
+.flyerLinkAndItems{
   display: flex;
+  justify-content: space-between;
+}
+
+.spotlightContainer{
+  display: flex;
+  background-color: rgb(241, 241, 242);
+  
+  
+}
+
+.spotlightText{
+  display: flex;
+  flex-direction: column;
   justify-content: space-evenly;
-} */
+  align-items: left;
+  padding: 25px ;
+  height: 75%;
+}
+
+
+.spotlightText h4{
+  font-weight: normal;
+}
+
+.spotlightText button{
+  margin-top: 30px;
+  border-radius: 20px;
+  width: 40%;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.spotlightText button:hover{
+  background-color: darkgreen;
+  cursor: pointer;
+  color: black;
+}
+

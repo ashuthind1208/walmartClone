@@ -18,7 +18,6 @@ export const WalmartCarousel = () => {
   const fetchData = async() =>{
     const data = await fetch('http://localhost:5000/carouselImages');
     const fetchImages = await data.json();
-    console.log(fetchImages);
     setImages(fetchImages);
   }
 

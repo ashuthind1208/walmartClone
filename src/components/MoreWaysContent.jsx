@@ -11,7 +11,9 @@ export const MoreWaysContent = () => {
     const fetchData = async() =>{
         const data = await fetch('http://localhost:5000/moreWaysContent')
         const result = await data.json();
-        setData(result)
+        result.map((item)=>{
+          setData(item.data);          
+      }) 
       }
 
     return (

@@ -10,7 +10,7 @@
   align-items: center;
   margin-bottom: 10px;
   margin: 0 20px;
-  width: 140px;
+  /* width: 140px; */
   text-align: center;
   height: 100%;
 }
@@ -18,6 +18,14 @@
 .backToSchoolContentItems h6{
   font-size: 11px;
   font-weight: normal;
+  color: #0072ce;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.backToSchoolContentItems h4{
+  font-size: 17px;
+  font-weight: bold;
   color: #0072ce;
 }
 
