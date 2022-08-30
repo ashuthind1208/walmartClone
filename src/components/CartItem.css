@@ -1,0 +1,72 @@
+.cartItemContainer{
+    position: relative;
+    width: 250px;
+    padding: 40px 10px 10px 20px;
+}
+   
+
+.featureContainer{
+    position: absolute;
+    top:0px;
+    left: 2px;
+    background-color: #0072ce;
+    padding: 0px 7px;
+    
+}
+
+.featureText{
+    font-size: 11px;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.exclusiveContainer{
+    position: absolute;
+    top:0px;
+    left: 2px;
+    background-color: #fff;
+    padding: 0px 7px;
+}
+
+.exclusiveText{
+    font-size: 11px;
+    border: solid 1px #0072ce;
+    color: #0072ce;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 2px 5px;
+}
+
+.productName, .productQty, .starRating{
+    padding-left: 00px;
+}
+
+.productPrice{
+    padding-top: 10px;
+    padding-left: 0px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.addToCart{
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border-width: 0px;
+    background-color: #0072ce;
+    color: #fff;
+}
+
+.soldOut, .onlineOnly{
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.cartItemContainer img{
+    width:70%;
+    height:40%;
+    object-fit: contain;    
+}
+
+

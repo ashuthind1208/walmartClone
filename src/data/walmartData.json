@@ -236,7 +236,128 @@
         ]
       }
     
+  ],
+  "shoppingTips":[
+  {
+    "imageUrl":"https://i5.walmartimages.com/dfw/8822aef6-119e/k2-_72cc2bee-4747-4c09-9ea8-a0b0f6117991.v1.png",
+    "text":"Back to school checklist"
+  }, {
+    "imageUrl":"https://i5.walmartimages.com/dfw/8822aef6-f0b9/k2-_2df0f793-1225-4dec-a846-3bba9455b9c5.v1.png",
+    "text":"6 best printers"
+  },
+  {
+    "imageUrl":"https://i5.walmartimages.com/dfw/8822aef6-2c9a/k2-_e30955db-7031-44d9-b2df-b5d33cd191a2.v1.png",
+    "text": "Best cooling fans"
+  },
+  {
+    "imageUrl":"https://i5.walmartimages.com/dfw/8822aef6-3ffe/k2-_dc0ed7f1-40e8-439d-adcc-75ea2a8f9a1a.v1.png",
+    "text":"Summer beauty essentials"
+  }
+
+  ],
+  "items":[
+    {
+      "id":"6000204146284",
+      "title":"10.2\" iPad WiFi 64GB (9th generation)",
+      "description":"The all new iPad 9th generation",
+      "imageCollection":[
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/182/758/6000204182758.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/183/690/6000204183690.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/183/692/6000204183692.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/183/693/6000204183693.jpg"}
+      ],
+      "price":"399",
+      "quantity": "1",
+      "categoryID":"10003-21017-6000205432311-6000205432315",
+      "exclusive":"false",
+      "featured":"false",
+      "bestSeller":"true",
+      "rollback":"false",
+      "rollbackPrice": "0"
+
+    },
+    {
+      "id":"6000202413853",
+      "title":"Evenflo Revolve360 Rotational All-In-One Car Seat",
+      "description":"Evenflo Revolve360 All-In-One",
+      "imageCollection":[
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/820/458/6000202820458.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/820/510/6000202820510.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/820/472/6000202820472.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/820/484/6000202820484.jpg"}
+      ],
+      "price":"499",
+      "quantity": "1",
+      "categoryID":"10003-21017-6000205432311-6000205432315",
+      "exclusive":"false",
+      "featured":"false",
+      "bestSeller":"true",
+      "rollback":"false",
+      "rollbackPrice": "599"
+
+    },
+    {
+      "id":"6000197845935",
+      "title":"DHP MAINSTAYS Black Metal Arm Futon Frame with 6” Full Size Mattress & Retainer Covers",
+      "description":"Futon with mattress",
+      "imageCollection":[
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/073/017/6000205073017.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/073/018/6000205073018.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/073/022/6000205073022.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/073/476/6000205073476.jpg"}
+      ],
+      "price":"499",
+      "quantity": "1",
+      "categoryID":"10003-21017-6000205432311-6000205432315",
+      "exclusive":"false",
+      "featured":"true",
+      "bestSeller":"false",
+      "rollback":"false",
+      "rollbackPrice": "599"
+
+    },
+    {
+      "id":"6000201035762",
+      "title":"Samsung Crystal Display 4K UltraHD Smart TV - TU7000",
+      "description":"2 HDMI, 1 USB, 120MR",
+      "imageCollection":[
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/711/525/6000203711525.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/302/589/6000201302589.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/302/590/6000201302590.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/302/598/6000201302598.jpg"}
+      ],
+      "price":"1098",
+      "quantity": "1",
+      "categoryID":"3454763500575",
+      "exclusive":"false",
+      "featured":"true",
+      "bestSeller":"false",
+      "rollback":"false",
+      "rollbackPrice": "599"
+
+    },
+    {
+      "id":"6000204518937",
+      "title":"Acer Aspire 1 15.6\" Laptop Intel Celeron N4020 A115-31-C2KK includes 1 year subscription Microsoft 365 and 1TB one drive",
+      "description":"4GB, 64GB, UHD Graphics 600",
+      "imageCollection":[
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/345/752/6000205345752.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/345/764/6000205345764.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/571/606/6000204571606.jpg"},
+        { "url":"https://i5.walmartimages.ca/images/Enlarge/345/774/6000205345774.jpg"}
+      ],
+      "price":"249.98",
+      "quantity": "1",
+      "categoryID":"1288848",
+      "exclusive":"false",
+      "featured":"false",
+      "bestSeller":"true",
+      "rollback":"false",
+      "rollbackPrice": "599"
+
+    }
   ]
+
 
 }
   

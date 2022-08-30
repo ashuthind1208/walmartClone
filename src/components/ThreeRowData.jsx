@@ -18,8 +18,8 @@ export const ThreeRowData = ({url}) => {
             setData(item.data);
             setConfig(item.config)
         }) 
-        console.log(data)
-        console.log(config);
+        //console.log(data)
+        //console.log(config);
       }
 
     return (

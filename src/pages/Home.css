@@ -45,13 +45,14 @@
 
 .flyerLinkAndItems{
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  
 }
 
 .spotlightContainer{
   display: flex;
   background-color: rgb(241, 241, 242);
-  
+  height: 380px;
   
 }
 
@@ -82,4 +83,18 @@
   cursor: pointer;
   color: black;
 }
+
+.flyerFeatureShopItems{
+  margin-left: 20px;
+  display: flex;  
+  justify-content: space-between;
+  width: 100%;
+  
+}
+
+.bestSellerContainer{
+  display: flex;
+  justify-content: flex-start;
+}
+
 

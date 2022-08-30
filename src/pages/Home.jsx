@@ -6,6 +6,10 @@ import { ThreeRowData } from "../components/ThreeRowData";
 
 import {ShopDepttContent} from "../components/ShopDepttContent";
 import ThreeRowHeading from "../components/ThreeRowHeading";
+import CartItem from "../components/CartItem";
+import ShoppingTips from "../components/ShoppingTips";
+import BestSellers from "../components/BestSellers";
+import Featured from "../components/Featured";
 export const Home = () => {
   return (
     <div className="homeContainer">
@@ -61,7 +65,21 @@ export const Home = () => {
             </div>
           
         </div>
-        
+       <div>   
+            
+          <Featured />
+       </div> 
+
+      </div>
+
+      <div className="backToSchoolContainer">
+        <ThreeRowHeading heading = "Shopping tips from our editors" />
+        <ShoppingTips />
+      </div>
+
+      <div className="backToSchoolContainer">
+        <ThreeRowHeading heading = "Check out these bestsellers" />
+       <BestSellers />
       </div>
     </div>
   );
